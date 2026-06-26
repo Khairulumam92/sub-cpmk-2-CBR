@@ -26,7 +26,7 @@ EVAL_DIR = os.path.join(DATA_DIR, 'eval')
 RESULTS_DIR = os.path.join(DATA_DIR, 'results')
 RAW_DIR = os.path.join(DATA_DIR, 'raw')
 PDF_DIR = os.path.join(PROJECT_ROOT, '..', 'pdf')
-OUTPUT_DIR = os.path.join(BASE_DIR, '..', 'output')
+OUTPUT_DIR = os.path.join(PROJECT_ROOT, '..', 'docs')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # =============================================================================

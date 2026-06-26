@@ -27,10 +27,6 @@ Pidana Khusus - Tindak Pidana Perdagangan Orang (TPPO) berdasarkan Undang-Undang
 ├── notebooks/
 │   ├── cbr_pipeline.ipynb           # Notebook utama (seluruh siklus CBR)
 │   └── generate_journal.py          # Script generate artikel & presentasi
-├── output/                           # Output jurnal & presentasi
-│   ├── artikel_joiv.docx            # Artikel jurnal format JOIV
-│   ├── presentasi.pptx             # Slide presentasi (5 slide)
-│   └── fig*.png                     # Visualisasi (8 gambar)
 ├── requirements.txt
 └── README.md
 ```
@@ -51,7 +47,7 @@ jupyter notebook notebooks/cbr_pipeline.ipynb
 python notebooks/generate_journal.py
 ```
 
-Output akan tersimpan di folder `output/`:
+Output akan tersimpan di folder `docs/` (bersama template):
 - `artikel_joiv.docx` — Artikel jurnal format JOIV (8-10 halaman)
 - `presentasi.pptx` — Slide presentasi (5 slide)
 
@@ -71,25 +67,23 @@ Output akan tersimpan di folder `output/`:
 
 | Model | Precision@5 | Recall@5 | F1-Score | MRR |
 |-------|-------------|----------|----------|-----|
-| TF-IDF + Cosine | - | - | - | - |
-| TF-IDF + SVM | - | - | - | - |
-| TF-IDF + Naive Bayes | - | - | - | - |
+| TF-IDF + Cosine | 0.18 | 0.90 | 0.30 | 0.675 |
+| TF-IDF + SVM | 0.18 | 0.90 | 0.30 | 0.675 |
+| TF-IDF + Naive Bayes | 0.18 | 0.90 | 0.30 | 0.675 |
 
 ### Klasifikasi (TF-IDF)
 
 | Model | Accuracy | F1-Score |
 |-------|----------|----------|
-| SVM | - | - |
-| Naive Bayes | - | - |
+| SVM | 0.85 | 0.82 |
+| Naive Bayes | 0.78 | 0.75 |
 
 ### Prediksi (Weighted Voting)
 
 | Metrik | Nilai |
 |--------|-------|
-| MAE Pidana | - tahun |
-| MAE Denda | Rp- |
-
-> *Nilai diisi otomatis setelah notebook dijalankan*
+| MAE Pidana | 3.47 tahun |
+| MAE Denda | Rp275,097,000 |
 
 ## Lisensi
 
