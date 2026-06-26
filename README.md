@@ -24,8 +24,13 @@ Pidana Khusus - Tindak Pidana Perdagangan Orang (TPPO) berdasarkan Undang-Undang
 │   ├── processed/      # Data terstruktur (cases.csv)
 │   ├── eval/           # Query uji, ground truth, dan metrik evaluasi
 │   └── results/        # Hasil prediksi solusi
-├── notebooks/          # Satu notebook mencakup seluruh siklus CBR
-│   └── cbr_pipeline.ipynb
+├── notebooks/
+│   ├── cbr_pipeline.ipynb           # Notebook utama (seluruh siklus CBR)
+│   └── generate_journal.py          # Script generate artikel & presentasi
+├── output/                           # Output jurnal & presentasi
+│   ├── artikel_joiv.docx            # Artikel jurnal format JOIV
+│   ├── presentasi.pptx             # Slide presentasi (5 slide)
+│   └── fig*.png                     # Visualisasi (8 gambar)
 ├── requirements.txt
 └── README.md
 ```
@@ -39,10 +44,16 @@ pip install -r requirements.txt
 ## Cara Menjalankan
 
 ```bash
+# 1. Jalankan pipeline CBR (preprocessing hingga evaluasi)
 jupyter notebook notebooks/cbr_pipeline.ipynb
+
+# 2. Generate artikel jurnal & presentasi
+python notebooks/generate_journal.py
 ```
 
-Jalankan seluruh sel secara berurutan dari preprocessing hingga evaluasi.
+Output akan tersimpan di folder `output/`:
+- `artikel_joiv.docx` — Artikel jurnal format JOIV (8-10 halaman)
+- `presentasi.pptx` — Slide presentasi (5 slide)
 
 ## Metode yang Digunakan
 
