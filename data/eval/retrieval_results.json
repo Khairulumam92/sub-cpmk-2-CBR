@@ -1,0 +1,182 @@
+[
+  {
+    "query_id": "query_01",
+    "type": "leave_one_out",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_001",
+      "case_007",
+      "case_050",
+      "case_057",
+      "case_034"
+    ],
+    "ground_truth": [
+      "case_001"
+    ]
+  },
+  {
+    "query_id": "query_02",
+    "type": "leave_one_out",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_011",
+      "case_018",
+      "case_052",
+      "case_022",
+      "case_019"
+    ],
+    "ground_truth": [
+      "case_011"
+    ]
+  },
+  {
+    "query_id": "query_03",
+    "type": "leave_one_out",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_021",
+      "case_012",
+      "case_069",
+      "case_053",
+      "case_040"
+    ],
+    "ground_truth": [
+      "case_021"
+    ]
+  },
+  {
+    "query_id": "query_04",
+    "type": "leave_one_out",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_031",
+      "case_033",
+      "case_002",
+      "case_022",
+      "case_047"
+    ],
+    "ground_truth": [
+      "case_031"
+    ]
+  },
+  {
+    "query_id": "query_05",
+    "type": "leave_one_out",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_041",
+      "case_065",
+      "case_018",
+      "case_062",
+      "case_001"
+    ],
+    "ground_truth": [
+      "case_041"
+    ]
+  },
+  {
+    "query_id": "query_06",
+    "type": "synthetic",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0,
+    "mrr": 0,
+    "retrieved_ids": [
+      "case_030",
+      "case_012",
+      "case_016",
+      "case_013",
+      "case_036"
+    ],
+    "ground_truth": [
+      "case_004"
+    ]
+  },
+  {
+    "query_id": "query_07",
+    "type": "synthetic",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_001",
+      "case_017",
+      "case_050",
+      "case_009",
+      "case_057"
+    ],
+    "ground_truth": [
+      "case_001"
+    ]
+  },
+  {
+    "query_id": "query_08",
+    "type": "synthetic",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_002",
+      "case_040",
+      "case_043",
+      "case_055",
+      "case_026"
+    ],
+    "ground_truth": [
+      "case_002"
+    ]
+  },
+  {
+    "query_id": "query_09",
+    "type": "synthetic",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 1.0,
+    "retrieved_ids": [
+      "case_070",
+      "case_069",
+      "case_018",
+      "case_011",
+      "case_016"
+    ],
+    "ground_truth": [
+      "case_070"
+    ]
+  },
+  {
+    "query_id": "query_10",
+    "type": "synthetic",
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "mrr": 0.3333333333333333,
+    "retrieved_ids": [
+      "case_009",
+      "case_010",
+      "case_017",
+      "case_001",
+      "case_026"
+    ],
+    "ground_truth": [
+      "case_017"
+    ]
+  }
+]

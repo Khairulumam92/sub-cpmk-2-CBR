@@ -1,0 +1,11 @@
+query_id,type,predicted_pidana,predicted_denda,ground_truth_pidana,ground_truth_denda,top_5_case_ids,top_5_scores,method
+query_01,leave_one_out,4.4,182755000.0,2,100000000,case_001; case_007; case_050; case_057; case_034,0.5691; 0.2040; 0.1929; 0.1728; 0.1013,weighted_voting
+query_02,leave_one_out,6.2,367903000.0,4,300000000,case_011; case_018; case_052; case_022; case_019,0.3654; 0.2010; 0.1841; 0.1689; 0.1351,weighted_voting
+query_03,leave_one_out,1.8,78424000.0,3,0,case_021; case_012; case_069; case_053; case_040,0.3005; 0.2024; 0.1563; 0.1530; 0.1348,weighted_voting
+query_04,leave_one_out,5.7,200000000.0,6,200000000,case_031; case_033; case_002; case_022; case_047,0.3311; 0.2999; 0.1053; 0.0968; 0.0930,weighted_voting
+query_05,leave_one_out,5.9,169901000.0,8,200000000,case_041; case_065; case_018; case_062; case_001,0.2392; 0.1279; 0.1200; 0.1188; 0.1145,weighted_voting
+query_06,synthetic,1.6,428863000.0,3,120000000,case_030; case_012; case_016; case_013; case_036,0.1434; 0.1385; 0.1343; 0.1291; 0.1253,weighted_voting
+query_07,synthetic,5.1,220967000.0,2,100000000,case_001; case_017; case_050; case_009; case_057,0.1815; 0.0969; 0.0866; 0.0837; 0.0814,weighted_voting
+query_08,synthetic,12.9,174825000.0,5,200000000,case_002; case_040; case_043; case_055; case_026,0.1762; 0.1144; 0.0846; 0.0618; 0.0590,weighted_voting
+query_09,synthetic,3.3,218975000.0,5,150000000,case_070; case_069; case_018; case_011; case_016,0.1973; 0.1039; 0.0633; 0.0617; 0.0604,weighted_voting
+query_10,synthetic,17.2,192973000.0,9,250000000,case_009; case_010; case_017; case_001; case_026,0.1323; 0.1221; 0.1217; 0.1003; 0.0848,weighted_voting
