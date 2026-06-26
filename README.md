@@ -24,17 +24,8 @@ Pidana Khusus - Tindak Pidana Perdagangan Orang (TPPO) berdasarkan Undang-Undang
 │   ├── processed/      # Data terstruktur (cases.csv)
 │   ├── eval/           # Query uji, ground truth, dan metrik evaluasi
 │   └── results/        # Hasil prediksi solusi
-├── notebooks/          # Tahapan siklus CBR (.py dan .ipynb)
-│   ├── 01_preprocessing.py
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_representation.py
-│   ├── 02_representation.ipynb
-│   ├── 03_retrieval.py
-│   ├── 03_retrieval.ipynb
-│   ├── 04_reuse.py
-│   ├── 04_reuse.ipynb
-│   ├── 05_evaluation.py
-│   └── 05_evaluation.ipynb
+├── notebooks/          # Satu notebook mencakup seluruh siklus CBR
+│   └── cbr_pipeline.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -45,38 +36,13 @@ Pidana Khusus - Tindak Pidana Perdagangan Orang (TPPO) berdasarkan Undang-Undang
 pip install -r requirements.txt
 ```
 
-## Cara Menjalankan Pipeline
-
-Jalankan secara berurutan sesuai siklus CBR:
-
-### Opsi A: Menggunakan Python Script
+## Cara Menjalankan
 
 ```bash
-cd notebooks
-
-# 1. Preprocessing: Ekstraksi dan pembersihan teks PDF
-python 01_preprocessing.py
-
-# 2. Case Representation: Ekstraksi metadata dan fitur
-python 02_representation.py
-
-# 3. Case Retrieval: TF-IDF dan cosine similarity
-python 03_retrieval.py
-
-# 4. Solution Reuse: Prediksi hasil putusan
-python 04_reuse.py
-
-# 5. Evaluasi: Metrik retrieval dan prediksi
-python 05_evaluation.py
+jupyter notebook notebooks/cbr_pipeline.ipynb
 ```
 
-### Opsi B: Menggunakan Jupyter Notebook
-
-```bash
-jupyter notebook notebooks/
-```
-
-Buka file `.ipynb` secara berurutan dari `01_preprocessing.ipynb` hingga `05_evaluation.ipynb`.
+Jalankan seluruh sel secara berurutan dari preprocessing hingga evaluasi.
 
 ## Metode yang Digunakan
 
