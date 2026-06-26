@@ -24,12 +24,17 @@ Pidana Khusus - Tindak Pidana Perdagangan Orang (TPPO) berdasarkan Undang-Undang
 │   ├── processed/      # Data terstruktur (cases.csv)
 │   ├── eval/           # Query uji, ground truth, dan metrik evaluasi
 │   └── results/        # Hasil prediksi solusi
-├── notebooks/          # Script per tahap siklus CBR
+├── notebooks/          # Tahapan siklus CBR (.py dan .ipynb)
 │   ├── 01_preprocessing.py
+│   ├── 01_preprocessing.ipynb
 │   ├── 02_representation.py
+│   ├── 02_representation.ipynb
 │   ├── 03_retrieval.py
+│   ├── 03_retrieval.ipynb
 │   ├── 04_reuse.py
-│   └── 05_evaluation.py
+│   ├── 04_reuse.ipynb
+│   ├── 05_evaluation.py
+│   └── 05_evaluation.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -42,7 +47,9 @@ pip install -r requirements.txt
 
 ## Cara Menjalankan Pipeline
 
-Jalankan script secara berurutan sesuai siklus CBR:
+Jalankan secara berurutan sesuai siklus CBR:
+
+### Opsi A: Menggunakan Python Script
 
 ```bash
 cd notebooks
@@ -63,6 +70,14 @@ python 04_reuse.py
 python 05_evaluation.py
 ```
 
+### Opsi B: Menggunakan Jupyter Notebook
+
+```bash
+jupyter notebook notebooks/
+```
+
+Buka file `.ipynb` secara berurutan dari `01_preprocessing.ipynb` hingga `05_evaluation.ipynb`.
+
 ## Metode yang Digunakan
 
 - **Case Retrieval:** TF-IDF Vectorization + Cosine Similarity
@@ -76,9 +91,9 @@ python 05_evaluation.py
 | Precision@5 | 0.180 |
 | Recall@5 | 0.900 |
 | F1-Score | 0.300 |
-| MRR | 0.833 |
-| MAE Pidana | 3.05 tahun |
-| MAE Denda | Rp84,018,800 |
+| MRR | 0.850 |
+| MAE Pidana | 2.53 tahun |
+| MAE Denda | Rp75,607,200 |
 
 ## Lisensi
 

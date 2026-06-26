@@ -8,10 +8,10 @@
     "mrr": 1.0,
     "retrieved_ids": [
       "case_001",
-      "case_007",
+      "case_006",
       "case_050",
       "case_057",
-      "case_034"
+      "case_010"
     ],
     "ground_truth": [
       "case_001"
@@ -29,7 +29,7 @@
       "case_018",
       "case_052",
       "case_022",
-      "case_019"
+      "case_004"
     ],
     "ground_truth": [
       "case_011"
@@ -83,7 +83,7 @@
       "case_065",
       "case_018",
       "case_062",
-      "case_001"
+      "case_010"
     ],
     "ground_truth": [
       "case_041"
@@ -116,10 +116,10 @@
     "mrr": 1.0,
     "retrieved_ids": [
       "case_001",
+      "case_010",
       "case_017",
       "case_050",
-      "case_009",
-      "case_057"
+      "case_008"
     ],
     "ground_truth": [
       "case_001"
@@ -136,8 +136,8 @@
       "case_002",
       "case_040",
       "case_043",
-      "case_055",
-      "case_026"
+      "case_026",
+      "case_055"
     ],
     "ground_truth": [
       "case_002"
@@ -167,13 +167,13 @@
     "precision": 0.2,
     "recall": 1.0,
     "f1": 0.33333333333333337,
-    "mrr": 0.3333333333333333,
+    "mrr": 0.5,
     "retrieved_ids": [
+      "case_008",
+      "case_017",
       "case_009",
       "case_010",
-      "case_017",
-      "case_001",
-      "case_026"
+      "case_002"
     ],
     "ground_truth": [
       "case_017"
