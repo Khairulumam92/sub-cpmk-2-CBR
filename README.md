@@ -46,20 +46,39 @@ Jalankan seluruh sel secara berurutan dari preprocessing hingga evaluasi.
 
 ## Metode yang Digunakan
 
-- **Case Retrieval:** TF-IDF Vectorization + Cosine Similarity
+- **Case Retrieval:** 3 model dibandingkan:
+  1. TF-IDF + Cosine Similarity (baseline)
+  2. TF-IDF + SVM (Support Vector Machine)
+  3. TF-IDF + Naive Bayes
+- **Train/Test Split:** 80% train / 20% test
 - **Case Reuse:** Weighted Similarity Voting
-- **Evaluasi:** Precision@5, Recall@5, F1-Score, MRR, MAE
+- **Evaluasi:** Precision@5, Recall@5, F1-Score, MRR, MAE, Akurasi Klasifikasi, Visualisasi Bar Chart
 
 ## Hasil Evaluasi
 
+### Retrieval (10 query uji)
+
+| Model | Precision@5 | Recall@5 | F1-Score | MRR |
+|-------|-------------|----------|----------|-----|
+| TF-IDF + Cosine | - | - | - | - |
+| TF-IDF + SVM | - | - | - | - |
+| TF-IDF + Naive Bayes | - | - | - | - |
+
+### Klasifikasi (TF-IDF)
+
+| Model | Accuracy | F1-Score |
+|-------|----------|----------|
+| SVM | - | - |
+| Naive Bayes | - | - |
+
+### Prediksi (Weighted Voting)
+
 | Metrik | Nilai |
 |--------|-------|
-| Precision@5 | 0.180 |
-| Recall@5 | 0.900 |
-| F1-Score | 0.300 |
-| MRR | 0.850 |
-| MAE Pidana | 2.53 tahun |
-| MAE Denda | Rp75,607,200 |
+| MAE Pidana | - tahun |
+| MAE Denda | Rp- |
+
+> *Nilai diisi otomatis setelah notebook dijalankan*
 
 ## Lisensi
 
