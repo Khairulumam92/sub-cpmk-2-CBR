@@ -2,181 +2,491 @@
   {
     "query_id": "query_01",
     "type": "leave_one_out",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_001",
-      "case_006",
-      "case_050",
-      "case_057",
-      "case_010"
-    ],
     "ground_truth": [
-      "case_001"
-    ]
+      "case_023"
+    ],
+    "cosine_top5": [
+      "case_025",
+      "case_023",
+      "case_024",
+      "case_027",
+      "case_040"
+    ],
+    "cosine_scores": [
+      0.16760688496795387,
+      0.16441720105234445,
+      0.14866065179458599,
+      0.07791465408522276,
+      0.07714184062352518
+    ],
+    "svm_top5": [
+      "case_025",
+      "case_023",
+      "case_024",
+      "case_027",
+      "case_040"
+    ],
+    "svm_label": "pasal_5-12",
+    "nb_top5": [
+      "case_025",
+      "case_023",
+      "case_024",
+      "case_027",
+      "case_040"
+    ],
+    "nb_label": "pasal_5-12",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 0.5,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 0.5,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 0.5
   },
   {
     "query_id": "query_02",
     "type": "leave_one_out",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_011",
-      "case_018",
-      "case_052",
-      "case_022",
-      "case_004"
-    ],
     "ground_truth": [
-      "case_011"
-    ]
+      "case_001"
+    ],
+    "cosine_top5": [
+      "case_001",
+      "case_050",
+      "case_006",
+      "case_057",
+      "case_034"
+    ],
+    "cosine_scores": [
+      0.42957456728731114,
+      0.24423432493324207,
+      0.23026637968125965,
+      0.227636182735387,
+      0.13945384792627502
+    ],
+    "svm_top5": [
+      "case_001",
+      "case_050",
+      "case_006",
+      "case_057",
+      "case_034"
+    ],
+    "svm_label": "pasal_18+",
+    "nb_top5": [
+      "case_001",
+      "case_050",
+      "case_006",
+      "case_057",
+      "case_034"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 1.0,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 1.0,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 1.0
   },
   {
     "query_id": "query_03",
     "type": "leave_one_out",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_021",
-      "case_012",
-      "case_069",
-      "case_053",
-      "case_040"
-    ],
     "ground_truth": [
-      "case_021"
-    ]
+      "case_050"
+    ],
+    "cosine_top5": [
+      "case_001",
+      "case_050",
+      "case_057",
+      "case_006",
+      "case_034"
+    ],
+    "cosine_scores": [
+      0.3768596641728043,
+      0.303133672230294,
+      0.21302667677797435,
+      0.20300740640419584,
+      0.1354916079067086
+    ],
+    "svm_top5": [
+      "case_001",
+      "case_050",
+      "case_057",
+      "case_006",
+      "case_034"
+    ],
+    "svm_label": "pasal_18+",
+    "nb_top5": [
+      "case_001",
+      "case_050",
+      "case_057",
+      "case_006",
+      "case_034"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 0.5,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 0.5,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 0.5
   },
   {
     "query_id": "query_04",
     "type": "leave_one_out",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_031",
-      "case_033",
-      "case_002",
-      "case_022",
-      "case_047"
-    ],
     "ground_truth": [
-      "case_031"
-    ]
+      "case_005"
+    ],
+    "cosine_top5": [
+      "case_030",
+      "case_005",
+      "case_012",
+      "case_064",
+      "case_022"
+    ],
+    "cosine_scores": [
+      0.19742390749718808,
+      0.1766984111943659,
+      0.16896748666748734,
+      0.16399311977465028,
+      0.15116361703670533
+    ],
+    "svm_top5": [
+      "case_030",
+      "case_005",
+      "case_012",
+      "case_064",
+      "case_022"
+    ],
+    "svm_label": "pasal_18+",
+    "nb_top5": [
+      "case_030",
+      "case_005",
+      "case_012",
+      "case_064",
+      "case_022"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 0.5,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 0.5,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 0.5
   },
   {
     "query_id": "query_05",
     "type": "leave_one_out",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_041",
-      "case_065",
-      "case_018",
-      "case_062",
-      "case_010"
-    ],
     "ground_truth": [
-      "case_041"
-    ]
+      "case_055"
+    ],
+    "cosine_top5": [
+      "case_055",
+      "case_010",
+      "case_043",
+      "case_037",
+      "case_054"
+    ],
+    "cosine_scores": [
+      0.11863745844823295,
+      0.11709931149060127,
+      0.1012634345890606,
+      0.10102557926587222,
+      0.09617580318600023
+    ],
+    "svm_top5": [
+      "case_055",
+      "case_010",
+      "case_043",
+      "case_037",
+      "case_054"
+    ],
+    "svm_label": "lainnya",
+    "nb_top5": [
+      "case_055",
+      "case_010",
+      "case_043",
+      "case_037",
+      "case_054"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 1.0,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 1.0,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 1.0
   },
   {
     "query_id": "query_06",
     "type": "synthetic",
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1": 0,
-    "mrr": 0,
-    "retrieved_ids": [
-      "case_030",
-      "case_012",
-      "case_016",
-      "case_013",
-      "case_036"
-    ],
     "ground_truth": [
       "case_004"
-    ]
+    ],
+    "cosine_top5": [
+      "case_013",
+      "case_012",
+      "case_018",
+      "case_016",
+      "case_036"
+    ],
+    "cosine_scores": [
+      0.17480708963688668,
+      0.15338621082537876,
+      0.1475142371983787,
+      0.14710053235270698,
+      0.14419159329447806
+    ],
+    "svm_top5": [
+      "case_013",
+      "case_012",
+      "case_018",
+      "case_016",
+      "case_036"
+    ],
+    "svm_label": "pasal_5-12",
+    "nb_top5": [
+      "case_013",
+      "case_012",
+      "case_018",
+      "case_016",
+      "case_036"
+    ],
+    "nb_label": "pasal_5-12",
+    "cosine_precision": 0.0,
+    "cosine_recall": 0.0,
+    "cosine_f1": 0,
+    "cosine_mrr": 0,
+    "svm_precision": 0.0,
+    "svm_recall": 0.0,
+    "svm_f1": 0,
+    "svm_mrr": 0,
+    "nb_precision": 0.0,
+    "nb_recall": 0.0,
+    "nb_f1": 0,
+    "nb_mrr": 0
   },
   {
     "query_id": "query_07",
     "type": "synthetic",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_001",
-      "case_010",
-      "case_017",
-      "case_050",
-      "case_008"
-    ],
     "ground_truth": [
       "case_001"
-    ]
+    ],
+    "cosine_top5": [
+      "case_001",
+      "case_050",
+      "case_010",
+      "case_017",
+      "case_057"
+    ],
+    "cosine_scores": [
+      0.203425476176469,
+      0.11263750316867363,
+      0.10148339109815391,
+      0.09923148406713819,
+      0.09771959902905177
+    ],
+    "svm_top5": [
+      "case_001",
+      "case_050",
+      "case_010",
+      "case_017",
+      "case_057"
+    ],
+    "svm_label": "pasal_5-12",
+    "nb_top5": [
+      "case_001",
+      "case_050",
+      "case_010",
+      "case_017",
+      "case_057"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 1.0,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 1.0,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 1.0
   },
   {
     "query_id": "query_08",
     "type": "synthetic",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
+    "ground_truth": [
+      "case_002"
+    ],
+    "cosine_top5": [
       "case_002",
       "case_040",
       "case_043",
-      "case_026",
-      "case_055"
+      "case_055",
+      "case_010"
     ],
-    "ground_truth": [
-      "case_002"
-    ]
+    "cosine_scores": [
+      0.1791590589367053,
+      0.1094598768034829,
+      0.08892314295566733,
+      0.06640271467408859,
+      0.06223071828960468
+    ],
+    "svm_top5": [
+      "case_002",
+      "case_040",
+      "case_043",
+      "case_055",
+      "case_010"
+    ],
+    "svm_label": "lainnya",
+    "nb_top5": [
+      "case_002",
+      "case_040",
+      "case_043",
+      "case_055",
+      "case_010"
+    ],
+    "nb_label": "lainnya",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 1.0,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 1.0,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 1.0
   },
   {
     "query_id": "query_09",
     "type": "synthetic",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 1.0,
-    "retrieved_ids": [
-      "case_070",
-      "case_069",
-      "case_018",
-      "case_011",
-      "case_016"
-    ],
     "ground_truth": [
       "case_070"
-    ]
+    ],
+    "cosine_top5": [
+      "case_070",
+      "case_069",
+      "case_011",
+      "case_018",
+      "case_065"
+    ],
+    "cosine_scores": [
+      0.1946355505914109,
+      0.1032632912584671,
+      0.08053991253184453,
+      0.0662430301142523,
+      0.0606416441960243
+    ],
+    "svm_top5": [
+      "case_070",
+      "case_069",
+      "case_011",
+      "case_018",
+      "case_065"
+    ],
+    "svm_label": "pasal_18+",
+    "nb_top5": [
+      "case_070",
+      "case_069",
+      "case_011",
+      "case_018",
+      "case_065"
+    ],
+    "nb_label": "pasal_18+",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 1.0,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 1.0,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 1.0
   },
   {
     "query_id": "query_10",
     "type": "synthetic",
-    "precision": 0.2,
-    "recall": 1.0,
-    "f1": 0.33333333333333337,
-    "mrr": 0.5,
-    "retrieved_ids": [
-      "case_008",
-      "case_017",
-      "case_009",
-      "case_010",
-      "case_002"
-    ],
     "ground_truth": [
       "case_017"
-    ]
+    ],
+    "cosine_top5": [
+      "case_008",
+      "case_009",
+      "case_010",
+      "case_017",
+      "case_001"
+    ],
+    "cosine_scores": [
+      0.13307870460982205,
+      0.1238999177805316,
+      0.11718130777030296,
+      0.11635412978603717,
+      0.10981682845188026
+    ],
+    "svm_top5": [
+      "case_008",
+      "case_009",
+      "case_010",
+      "case_017",
+      "case_001"
+    ],
+    "svm_label": "pasal_13-17",
+    "nb_top5": [
+      "case_008",
+      "case_009",
+      "case_010",
+      "case_017",
+      "case_001"
+    ],
+    "nb_label": "pasal_13-17",
+    "cosine_precision": 0.2,
+    "cosine_recall": 1.0,
+    "cosine_f1": 0.33333333333333337,
+    "cosine_mrr": 0.25,
+    "svm_precision": 0.2,
+    "svm_recall": 1.0,
+    "svm_f1": 0.33333333333333337,
+    "svm_mrr": 0.25,
+    "nb_precision": 0.2,
+    "nb_recall": 1.0,
+    "nb_f1": 0.33333333333333337,
+    "nb_mrr": 0.25
   }
 ]

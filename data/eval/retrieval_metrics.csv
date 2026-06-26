@@ -1,11 +1,4 @@
-query_id,type,precision@5,recall@5,f1_score,mrr,top1_match
-query_01,leave_one_out,0.2,1.0,0.333,1.0,YES
-query_02,leave_one_out,0.2,1.0,0.333,1.0,YES
-query_03,leave_one_out,0.2,1.0,0.333,1.0,YES
-query_04,leave_one_out,0.2,1.0,0.333,1.0,YES
-query_05,leave_one_out,0.2,1.0,0.333,1.0,YES
-query_06,synthetic,0.0,0.0,0.0,0.0,NO
-query_07,synthetic,0.2,1.0,0.333,1.0,YES
-query_08,synthetic,0.2,1.0,0.333,1.0,YES
-query_09,synthetic,0.2,1.0,0.333,1.0,YES
-query_10,synthetic,0.2,1.0,0.333,0.5,YES
+Model,Precision@5,Recall@5,F1-Score,MRR
+TF-IDF + Cosine,0.18,0.9,0.3,0.675
+TF-IDF + SVM,0.18,0.9,0.3,0.675
+TF-IDF + Naive Bayes,0.18,0.9,0.3,0.675

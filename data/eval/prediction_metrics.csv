@@ -1,11 +1,11 @@
-query_id,type,predicted_pidana,ground_truth_pidana,predicted_denda,ground_truth_denda,error_pidana,error_denda
-query_01,leave_one_out,4.7,2,183471000.0,100000000,2.7,83471000.0
-query_02,leave_one_out,5.6,4,364299000.0,300000000,1.5999999999999996,64299000.0
-query_03,leave_one_out,1.8,3,77395000.0,0,1.2,77395000.0
-query_04,leave_one_out,5.7,6,200000000.0,200000000,0.2999999999999998,0.0
-query_05,leave_one_out,6.3,8,185788000.0,200000000,1.7000000000000002,14212000.0
-query_06,synthetic,1.6,3,428992000.0,120000000,1.4,308992000.0
-query_07,synthetic,5.1,2,174958000.0,100000000,3.0999999999999996,74958000.0
-query_08,synthetic,14.1,5,175580000.0,200000000,9.1,24420000.0
-query_09,synthetic,3.4,5,218940000.0,150000000,1.6,68940000.0
-query_10,synthetic,6.4,9,210615000.0,250000000,2.5999999999999996,39385000.0
+query_id,type,predicted_pidana,predicted_denda,ground_truth_pidana,ground_truth_denda,top_5_case_ids,method,error_pidana,error_denda
+query_01,leave_one_out,6.3,184128000.0,8,200000000,case_025; case_023; case_024; case_027; case_040,weighted_voting,1.7000000000000002,15872000.0
+query_02,leave_one_out,4.9,205438000.0,2,100000000,case_001; case_050; case_006; case_057; case_034,weighted_voting,2.9000000000000004,105438000.0
+query_03,leave_one_out,5.4,208105000.0,12,200000000,case_001; case_050; case_057; case_006; case_034,weighted_voting,6.6,8105000.0
+query_04,leave_one_out,3.7,382655000.0,10,1000000000,case_030; case_005; case_012; case_064; case_022,weighted_voting,6.3,617345000.0
+query_05,leave_one_out,5.4,184835000.0,7,200000000,case_055; case_010; case_043; case_037; case_054,weighted_voting,1.5999999999999996,15165000.0
+query_06,synthetic,2.5,456266000.0,3,120000000,case_013; case_012; case_018; case_016; case_036,weighted_voting,0.5,336266000.0
+query_07,synthetic,5.9,222677000.0,2,100000000,case_001; case_050; case_010; case_017; case_057,weighted_voting,3.9000000000000004,122677000.0
+query_08,synthetic,4.0,175133000.0,5,200000000,case_002; case_040; case_043; case_055; case_010,weighted_voting,1.0,24867000.0
+query_09,synthetic,3.9,176862000.0,5,150000000,case_070; case_069; case_011; case_018; case_065,weighted_voting,1.1,26862000.0
+query_10,synthetic,5.8,191398000.0,9,250000000,case_008; case_009; case_010; case_017; case_001,weighted_voting,3.2,58602000.0

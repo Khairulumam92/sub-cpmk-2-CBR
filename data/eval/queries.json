@@ -1,57 +1,52 @@
 [
   {
     "query_id": "query_01",
-    "query_text": "Nomor 1013 K/Pid.Sus/2026\nmemeriksa perkara tindak pidana khusus pada tingkat kasasi yang\ndimohonkan oleh Penuntut Umum pada Kejaksaan Negeri Jakarta Selatan,\ntelah memutus perkara Terdakwa:\nNama : YETY HERAWATY alias LIS;\nTempat Lahir : Jakarta;\nUmur/Tanggal Lahir : 47 tahun/24 Februari 1978;\nJenis Kelamin : Perempuan;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Jalan Kalipasir Gg. Tembok Nomor 24 RT\n011 RW 010, Kelurahan Kebon Sirih,\nKecamatan Menteng, Jakarta Pusat;\nAgama : Islam;\nPekerjaan : Swasta;\nTerdakwa tersebut berada dalam tahanan Rumah Tahanan Negara\n(RUTAN) sejak tanggal 11 November 2024 sampai dengan sekarang;\nTerdakwa diajukan di depan persidangan Pengadilan Negeri Jakarta\nSelatan karena didakwa dengan dakwaan sebagai berikut:\nPertama : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 2 Ayat (1) Undang-Undang Nomor 21 Tahun 2007\ntentang Pemberantasan Tindak Pidana Perdagangan Orang;\nAtau\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 88 Ayat (1) juncto Pasal 76 I Undang-Undang\nNomor 35 Tahun 2014 tentang Perubahan atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\njuncto Undang-Undang Nomor 17 Tahun 2016 tentang\nPenetapan Peraturan Pemerintah Pengganti Undang-Undang\nNomor 1 Tahun 2016 tentang Perubahan Kedua atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\nmenjadi Undang-Undang;\nMahkamah Agung tersebut;\nMembaca Tuntutan Pidana Penuntut Umum pada Kejaksaan Negeri\nJakarta Selatan tanggal 10 Juli 2025 sebagai berikut:\n1. Menyatakan Terdakwa YETY HERAWATY alias LIS bersalah melakukan\ntindak pidana “Menempatkan, membiarkan, melakukan, menyuruh\nmelakukan, atau turut serta melakukan eksploitasi secara ekonomi\ndan/atau seksual terhadap Anak” sebagaimana diatur dan diancam pidana\ndalam Pasal 88 juncto Pasal 76 I Undang-undang Nomor 35 Tahun 2014\ntentang perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang\nPerlindungan Anak juncto Undang-Undang Nomor 17 Tahun 2016 tentang\nPe",
-    "source_case": "case_001",
+    "query_text": "didakwa dengan dakwaan sebagai berikut:\nKesatu : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 4 juncto Pasal 10 Undang-Undang Nomor 21\nTahun 2007 tentang Pemberantasan Tindak Pidana\nPerdagangan Orang;\nAtau\nKedua\nPrimair : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 432 Ayat (2) Undang-Undang Nomor 17 Tahun\n2023 tentang Kesehatan juncto Pasal 55 Ayat (1) ke-1 KUHP\njuncto Pasal 53 Ayat (1) KUHP;\nSubsidair : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 432 Ayat (1) Undang-Undang Nomor 17 Tahun\n2023 tentang Kesehatan juncto Pasal 55 Ayat (1) ke-1 KUHP\njuncto\nPasal 53 Ayat (1) KUHP;\nMahkamah Agung tersebut;",
+    "source_case": "case_023",
     "ground_truth": [
-      "case_001"
+      "case_023"
     ],
-    "pasal": "2 Ayat (1); 88 Ayat (1) juncto Pasal 76; 88 juncto Pasal 76; 80 Ayat (1)",
     "type": "leave_one_out"
   },
   {
     "query_id": "query_02",
-    "query_text": "Nomor 11898 K/Pid.Sus/2025\nmemeriksa perkara tindak pidana khusus pada tingkat kasasi yang\ndimohonkan oleh Penuntut Umum pada Kejaksaan Negeri Lampung Tengah,\ntelah memutus perkara Terdakwa:\nNama : YUNIARTI binti alm. RAHMAT LEGIMIN;\nTempat Lahir : Bandung;\nUmur/Tanggal Lahir : 47 tahun/5 Juni 1977;\nJenis Kelamin : Perempuan;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Dusun II, RT 016 RW 004, Kampung\nDonomulyo, Kecamatan Bumi Agung,\nKabupaten Lampung Timur;\nAgama : Islam;\nPekerjaan : Mengurus Rumah Tangga;\nTerdakwa tersebut ditangkap pada tanggal 7 November 2024;\nTerdakwa tersebut berada dalam tahanan Rumah Tahanan Negara\n(RUTAN) sejak tanggal 7 November 2024 sampai dengan sekarang;\nTerdakwa diajukan di depan persidangan Pengadilan Negeri Gunung\nSugih karena didakwa dengan dakwaan sebagai berikut:\nKesatu : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 4 Undang-Undang Nomor 21 Tahun 2007 tentang\nTindak Pidana Perdagangan Orang; Atau\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 81 juncto Pasal 69 Undang-Undang Nomor 18 Tahun\n2017 tentang Perlindungan Pekerja Migran Indonesia;\nMahkamah Agung tersebut;\nMembaca Tuntutan Pidana Penuntut Umum pada Kejaksaan Negeri\nLampung Tengah tanggal 7 Juli 2025 sebagai berikut:\n1. Menyatakan Terdakwa YUNIARTI binti alm. RAHMAT LEGIMIN telah\nterbukti secara sah dan meyakinkan bersalah melakukan tindak pidana\n“Setiap orang, membawa warga Indonesia ke luar wilayah Negara\nRepublik Indonesia, dengan maksud untuk dieksploitasi diwilayah Negara\nRepublik Indonesia atau dieksploitasi di Negara lain” sebagaimana diatur\ndan diancam pidana Pasal 4 Undang-Undang Nomor 21 Tahun 2007\ntentang Tindak Pidana Perdagangan Orang dalam surat dakwaan\nalternatif Kesatu kami;\n2. Menjatuhkan pidana penjara terhadap Terdakwa YUNIARTI binti alm.\nRAHMAT LEGIMIN dengan pidana penjara selama 4 (empat) tahun\ndikurangi masa penangkapan dan penahanan yang telah dijalani oleh\nTerdakwa dan pidana denda sebesar Rp3",
-    "source_case": "case_011",
+    "query_text": "didakwa dengan dakwaan sebagai berikut:\nPertama : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 2 Ayat (1) Undang-Undang Nomor 21 Tahun 2007\ntentang Pemberantasan Tindak Pidana Perdagangan Orang;\nAtau\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 88 Ayat (1) juncto Pasal 76 I Undang-Undang\nNomor 35 Tahun 2014 tentang Perubahan atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\njuncto Undang-Undang Nomor 17 Tahun 2016 tentang\nPenetapan Peraturan Pemerintah Pengganti Undang-Undang\nNomor 1 Tahun 2016 tentang Perubahan Kedua atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\nmenjadi Undang-Undang;\nMahkamah Agung tersebut;",
+    "source_case": "case_001",
     "ground_truth": [
-      "case_011"
+      "case_001"
     ],
-    "pasal": "4; 81 juncto Pasal 69; 197 Ayat (1); 253 Ayat (1)",
     "type": "leave_one_out"
   },
   {
     "query_id": "query_03",
-    "query_text": "Nomor 1297 K/Pid.Sus/2026\nmemeriksa perkara tindak pidana khusus pada tingkat kasasi yang\ndimohonkan oleh Penuntut Umum pada Kejaksaan Negeri Manggarai, telah\nmemutus perkara Para Terdakwa:\nI. Nama : DANIEL LUMA alias DEBRI;\nTempat Lahir : Satarmata;\nUmur/Tanggal Lahir : 28 tahun/11 Maret 1997;\nJenis Kelamin : Laki-laki;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Satarmata, RT 014 RW 002, Desa Gunung,\nKecamatan Kota Komba, Kabupaten\nManggarai Timur;\nAgama : Katolik;\nPekerjaan : Petani;\nII. Nama : MARIANUS RISKI ANDUT alias RISKI;\nTempat Lahir : Wontong;\nUmur/Tanggal Lahir : 19 tahun/4 Mei 2006;\nJenis Kelamin : Laki-laki;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Cara, RT 012 RW 006, Kelurahan Wae\nBelang, Kecamatan Ruteng, Kabupaten\nManggarai;\nAgama : Katolik;\nPekerjaan : Petani;\nIII. Nama : YOHANES JEMADU alias JHON;\nTempat Lahir : Rejo;\nUmur/Tanggal Lahir : 29 tahun/12 Juni 1996;\nJenis Kelamin : Laki-laki;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Rejo, RT 007 RW 003, Desa Ceka Luju,\nKecamatan Satar Mese Barat, Kabupaten\nManggarai;\nAgama : Katolik;\nPekerjaan : Petani;\nIV. Nama : BUDI RAHMAN alias BUDI;\nTempat Lahir : Bangkalan;\nUmur/Tanggal Lahir : 49 tahun/2 Juli 1975;\nJenis Kelamin : Laki-laki;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Jorjoran 5 Timur Blok D/46, RT 009 RW\n008, Kelurahan Mojo, Kecamatan Gubeng,\nKota Surabaya;\nAgama : Islam;\nPekerjaan : Karyawan Swasta;\nPara Terdakwa tersebut ditangkap pada tanggal 18 Februari 2025;\nPara Terdakwa tersebut berada dalam tahanan Rumah Tahanan\nNegara (RUTAN) sejak tanggal 19 Februari 2025 sampai dengan sekarang;\nPara Terdakwa diajukan di depan persidangan Pengadilan Negeri\nRuteng karena didakwa dengan dakwaan sebagai berikut:\nPertama : Perbuatan Para Terdakwa sebagaimana diatur dan\ndiancam pidana dalam Pasal 2 Ayat (1) juncto Pasal 17\nUndang-Undang Nomor 21 Tahun 2007 tentang\nPemberantasan Tindak Pidana Perdagangan Orang\njuncto Pasal 55 Ayat (1) ke-1 KUHP;\nAtau\nKedua : Perbuatan Para Terdakwa sebagaiman",
-    "source_case": "case_021",
+    "query_text": "didakwa dengan dakwaan sebagai berikut:\nPERTAMA : Perbuatan Para Terdakwa sebagaimana diatur dan diancam\npidana dalam Pasal 2 Ayat (2) Undang-Undang Nomor 21\nTahun 2007 tentang Pemberantasan Tindak Pidana\nPerdagangan Orang juncto Pasal 55 Ayat (1) ke-1 KUHP;\nAtau\nKEDUA\nPrimair : Perbuatan Para Terdakwa sebagaimana diatur dan diancam\npidana dalam Pasal 83 juncto Pasal 76F Undang-Undang\nNomor 35 Tahun 2014 tentang Perubahan atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\njuncto Undang-Undang Nomor 17 Tahun 2016 tentang\nPenetapan Peraturan Pemerintah Pengganti Undang-Undang\nNomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\nMenjadi Undang-Undang;\nSubsidair : Perbuatan Para Terdakwa sebagaimana diatur dan diancam\npidana dalam Pasal 88 juncto Pasal 76I Undang-Undang\nNomor 35 Tahun 2014 tentang Perubahan atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\njuncto Undang-Undang Nomor 17 Tahun 2016 tentang\nPenetapan Peraturan Pemerintah Pengganti Undang-Undang\nNomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang-\nUndang Nomor 23 Tahun 2002 tentang Perlindungan Anak\nMenjadi Undang-Undang;\nMahkamah Agung tersebut;",
+    "source_case": "case_050",
     "ground_truth": [
-      "case_021"
+      "case_050"
     ],
-    "pasal": "2 Ayat (1) juncto Pasal 17; 55 Ayat (1); 2 Ayat (1); 10; 3 Ayat (1) juncto Pasal 618; 361; 253 Ayat (1); 250; 455 Ayat (1) juncto Pasal 20; 80",
     "type": "leave_one_out"
   },
   {
     "query_id": "query_04",
-    "query_text": "PUTUSAN\nNomor 1998 K/Pid.Sus/2026\nMAHKAMAH AGUNG\nmemeriksa perkara tindak pidana khusus pada tingkat kasasi yang\ndimohonkan oleh Penuntut Umum pada Kejaksaan Negeri Maluku Tengah\ndan Terdakwa, telah memutus perkara Terdakwa:\nNama : REZA ALI RM alias ECA alias SHARON;\nTempat Lahir : Palu;\nUmur/Tanggal Lahir : 24 tahun/15 Februari 2001;\nJenis Kelamin : Perempuan;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Jaga III, Desa Paslaten, Kecamatan Lawongan\nBarat, USW Mess Karaoke Diamond, Kota\nMasohi;\nAgama : Kristen Protestan;\nPekerjaan : Pelayan Karaoke Diamond;\nTerdakwa tersebut berada dalam tahanan Rumah Tahanan Negara\n(RUTAN) sejak tanggal 10 Januari 2025 sampai dengan sekarang;\nTerdakwa diajukan di depan persidangan Pengadilan Negeri Masohi\nkarena didakwa dengan dakwaan sebagai berikut:\nKesatu : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 2 Ayat (1) Undang-Undang Nomor 21 Tahun 2007\ntentang Pemberantasan Tindak Pidana Perdagangan Orang\njuncto Pasal 55 Ayat (1) ke-1 KUHP;\nAtau\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 6 Undang-Undang Nomor 21 Tahun 2007 tentang\nPemberantasan Tindak Pidana Perdagangan Orang juncto\nPasal 55 Ayat (1) ke-1 KUHP;\nMahkamah Agung tersebut;\nMembaca Tuntutan Pidana Penuntut Umum pada Kejaksaan Negeri\nMaluku Tengah tanggal 27 Agustus 2025 sebagai berikut:\n1. Menyatakan Terdakwa REZA ALI RM alias ECA alias SHARON telah\nterbukti secara sah dan meyakinkan bersalah melakukan tindak pidana\nyang melanggar Pasal 2 Ayat (1) Undang-Undang Nomor 21 Tahun 2007\ntentang Pemberantasan Tindak Pidana Perdagangan Orang juncto Pasal\n55 Ayat (1) ke-1 KUHP sebagaimana dalam surat dakwaan alternatif\nKesatu;\n2. Menjatuhkan pidana kepada Terdakwa oleh karena itu dengan pidana\npenjara selama 8 (delapan) tahun dikurangi masa penangkapan dan\npenahanan yang telah dijalani dan denda sebesar Rp200.000.000,00 (dua\nratus juta rupiah) subsidair 6 (enam) bulan kurungan;\n3. Menyatakan agar Terdakwa tetap ditahan;\n4. Me",
-    "source_case": "case_031",
+    "query_text": "didakwa dengan dakwaan sebagai berikut:\nPertama : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 4 juncto Pasal 48 Ayat (1) Undang-Undang Nomor\n21 Tahun 2007 tentang Pemberantasan Tindak Pidana\nPerdagangan Orang juncto Pasal 55 Ayat (1) ke-1 KUHP; Atau\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 81 Undang-Undang Nomor 18 Tahun 2017 tentang\nPerlindungan Pekerja Migran Indonesia juncto Pasal 55 Ayat (1)\nke-1 KUHP;\nMahkamah Agung tersebut;",
+    "source_case": "case_005",
     "ground_truth": [
-      "case_031"
+      "case_005"
     ],
-    "pasal": "2 Ayat (1); 55 Ayat (1); 6; 9; 253 Ayat (1); 80 Ayat (1); 20",
     "type": "leave_one_out"
   },
   {
     "query_id": "query_05",
-    "query_text": "Nomor 2410 K/Pid.Sus/2026\nmemeriksa perkara tindak pidana khusus pada tingkat kasasi yang\ndimohonkan oleh Terdakwa, telah memutus perkara Terdakwa:\nNama : WAHYU SUTANTRI, S.Si. alias IBU WAHYU;\nTempat Lahir : Dasan Agung;\nUmur/Tanggal Lahir : 47 tahun/28 Februari 1978;\nJenis Kelamin : Perempuan;\nKewarganegaraan : Indonesia;\nTempat Tinggal : Jalan K.H. Mansyur Dasan Sari, RT 004, RW\n038, Kelurahan Kebun Sari, Kecamatan\nAmpenan, Kota Mataram;\nAgama : Islam;\nPekerjaan : Guru;\nTerdakwa tersebut ditangkap pada tanggal 5 November 2024;\nTerdakwa tersebut berada dalam tahanan Rumah Tahanan Negara\n(RUTAN) sejak tanggal 6 November 2024 sampai dengan sekarang;\nTerdakwa diajukan di depan persidangan Pengadilan Negeri Mataram\nkarena didakwa dengan dakwaan sebagai berikut:\nPERTAMA : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 11 juncto Pasal 2 Undang-Undang Nomor 21\nTahun 2007 tentang Pemberantasan Tindak Pidana\nPerdagangan Orang;\nATAU\nKEDUA : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 11 juncto Pasal 4 Undang-Undang Nomor 21\nTahun 2007 tentang Pemberantasan Tindak Pidana\nPerdagangan Orang;\nATAU\nKETIGA : Perbuatan Terdakwa sebagaimana diatur dan diancam pidana\ndalam Pasal 81 juncto Pasal 69 Undang-Undang Nomor 18\nTahun 2017 tentang Perlindungan Pekerja Migran Indonesia;\nMahkamah Agung tersebut;\nMembaca Tuntutan Pidana Penuntut Umum pada Kejaksaan Negeri\nMataram tanggal 13 Agustus 2025 sebagai berikut:\n1. Menyatakan Terdakwa WAHYU SUTANTRI, S.Si. alias IBU WAHYU\nbersalah melakukan tindak pidana “Perdagangan orang” sebagaimana\ndiatur dan diancam pidana dalam dakwaan Kedua Pasal 11 juncto Pasal\n4 Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak\nPidana Perdagangan Orang;\n2. Menjatuhkan pidana terhadap Terdakwa WAHYU SUTANTRI, S.Si. alias\nIBU WAHYU dengan pidana penjara selama 8 (delapan) tahun dengan\ndikurangkan selama Terdakwa berada dalam tahanan, dengan perintah\nagar Terdakwa tetap ditahan dan denda sebesar Rp200.000",
-    "source_case": "case_041",
+    "query_text": "didakwa dengan dakwaan sebagai berikut:\nPertama : Perbuatan Terdakwa sebagaimana diatur dan diancam\npidana dalam Pasal 10 juncto Pasal 2 Ayat (1) Undang-\nUndang Nomor 21 Tahun 2007 tentang Pemberantasan\nTindak Pidana Perdagangan Orang;\nAtau;\nKedua : Perbuatan Terdakwa sebagaimana diatur dan diancam\npidana dalam Pasal 296 KUHP;\nMahkamah Agung tersebut;",
+    "source_case": "case_055",
     "ground_truth": [
-      "case_041"
+      "case_055"
     ],
-    "pasal": "11 juncto Pasal 2; 11 juncto Pasal 4; 81 juncto Pasal 69; 361; 3 Ayat (1) juncto Pasal 618; 455 Ayat (1); 618; 3; 197 Ayat (1); 80 Ayat (1)",
     "type": "leave_one_out"
   },
   {
     "query_id": "query_06",
-    "query_text": "Turut serta melakukan melaksanakan penempatan pekerja migran Indonesia. Pekerja migran Indonesia ditempatkan di luar negeri tanpa hak dan dieksploitasi. Pasal 4 juncto Pasal 10 Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang juncto Pasal 55 Ayat (1) ke-1 KUHP.",
+    "query_text": "Turut serta melakukan melaksanakan penempatan pekerja migran Indonesia. Pekerja migran Indonesia ditempatkan di luar negeri tanpa hak dan dieksploitasi. Pasal 4 juncto Pasal 10 Undang-Undang Nomor 21 Tahun 2007.",
     "ground_truth": [
       "case_004"
     ],
@@ -67,7 +62,7 @@
   },
   {
     "query_id": "query_08",
-    "query_text": "Terdakwa menawarkan jasa prostitusi melalui aplikasi MiChat. Terdakwa mencari tamu untuk melakukan persetubuhan dengan para saksi dan mendapatkan fee. Pasal 12 Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang.",
+    "query_text": "Terdakwa menawarkan jasa prostitusi melalui aplikasi MiChat. Terdakwa mencari tamu untuk melakukan persetubuhan dengan para saksi dan mendapatkan fee. Pasal 12 Undang-Undang Nomor 21 Tahun 2007.",
     "ground_truth": [
       "case_002"
     ],
@@ -75,7 +70,7 @@
   },
   {
     "query_id": "query_09",
-    "query_text": "Mahasiswa magang dikirim ke Jepang untuk program magang tetapi dipaksa bekerja melebihi jam kerja. Visa diubah dari visa pelajar menjadi visa pekerja. Mereka tidak diberi hak dan gaji yang layak. Pasal 4 juncto Pasal 48 Undang-Undang Nomor 21 Tahun 2007.",
+    "query_text": "Mahasiswa magang dikirim ke Jepang untuk program magang tetapi dipaksa bekerja melebihi jam kerja. Visa diubah dari visa pelajar menjadi visa pekerja. Pasal 4 juncto Pasal 48 Undang-Undang Nomor 21 Tahun 2007.",
     "ground_truth": [
       "case_070"
     ],
@@ -83,7 +78,7 @@
   },
   {
     "query_id": "query_10",
-    "query_text": "Terdakwa merekrut anak di bawah umur untuk dieksploitasi secara seksual. Anak korban berusia 16 tahun dan 13 tahun. Terdakwa mencarikan tamu laki-laki untuk anak korban dan mendapatkan fee. Pasal 2 Ayat (1) juncto Pasal 17 Undang-Undang Nomor 21 Tahun 2007.",
+    "query_text": "Terdakwa merekrut anak di bawah umur untuk dieksploitasi secara seksual. Anak korban berusia 16 tahun dan 13 tahun. Terdakwa mencarikan tamu laki-laki untuk anak korban. Pasal 2 Ayat (1) juncto Pasal 17 Undang-Undang Nomor 21 Tahun 2007.",
     "ground_truth": [
       "case_017"
     ],
